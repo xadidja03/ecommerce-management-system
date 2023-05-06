@@ -1,0 +1,10 @@
+spring:
+datasource:
+driver-class-name: org.postgresql.Driver
+username: postgres
+password: xedice2003
+url: jdbc:postgresql://localhost:5432/empl
+jpa:
+show-sql: true
+hibernate:
+ddl-auto: update

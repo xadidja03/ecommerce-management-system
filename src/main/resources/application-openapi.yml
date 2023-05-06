@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: postgres
+    version: 1.0.0
+    author: Madnayeva Khadija

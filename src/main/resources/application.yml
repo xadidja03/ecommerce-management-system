@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: postgres
+  profiles:
+    include:
+      - db
+      - openapi
+server:
+  port: 8070
+
+
+
+
